@@ -1,4 +1,4 @@
-# Guvi_CAPSTON_Project_YOUTUBE-DATA-HARVESTING-AND-WAREHOUSING
+# YOUTUBE DATA HARVESTING AND WAREHOUSING
 
 YouTube Data Harvesting and Warehousing
 The YouTube Data Harvesting and Warehousing project is designed to provide users with the ability to access, store, and analyze data from various YouTube channels. Leveraging powerful tools like SQL, MongoDB, and Streamlit, the project delivers a seamless application for retrieving, saving, and querying YouTube channel and video data.
